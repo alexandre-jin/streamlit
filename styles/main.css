@@ -1,0 +1,17 @@
+* {
+    background-color: rgb(225, 214, 197);
+    color: black;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif
+}
+
+ul {
+    list-style-type: none;
+}
+
+a {
+    text-decoration: none;
+}
+
+span {
+    color: black;
+}
